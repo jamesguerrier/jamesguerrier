@@ -15,7 +15,7 @@
 |     1| JavaScript|
 |     2| Python    |
 |     3| SQL       |
-|     4| Rubi      |
+|     4| Ruby      |
 
 </details>
 
