@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently learn web development on freecodecamp and the Odinproject
+I'm looking to colaborate on any opensourse projects
+you can reach me at jamesguerrier72@gmail.com
+
 <!--
 **jamesguerrier/jamesguerrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
