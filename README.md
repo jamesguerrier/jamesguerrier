@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm currently learn web development on freecodecamp and the Odinproject
-I'm looking to colaborate on any opensourse projects
-you can reach me at jamesguerrier72@gmail.com
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+- I'm currently learn web development on freecodecamp and the Odinproject
+- I'm looking to colaborate on any opensourse projects
+- You can reach me at jamesguerrier72@gmail.com
 
 <details>
 <summary>My top languages</summary>
